@@ -1,6 +1,6 @@
 # GRC Automation Scripts
 
-Python scripts for automating GRC (Governance, Risk, and Compliance) workflows — built by [Raj Sanghvi](https://github.com/Sang-cyber).
+Python scripts for automating GRC (Governance, Risk, and Compliance) workflows 
 
 ## Scripts
 
